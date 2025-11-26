@@ -1,0 +1,6 @@
+python -m streamlit run generation_1.py
+
+--------------------
+python -m streamlit run app.py
+
+python generation_1.py
